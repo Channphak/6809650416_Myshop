@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Vast+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Special+Elite&family=Vast+Shadow&display=swap');
+
+
+
+body{
+  background-image: url("resources/CREAM\ BACKGROUND.jpg");
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0px;
+ }
+.poster{
+  background-image: url("resources/WHITE\ BACKGROUND.jpg");
+  height: 4200px;
+  width: 1500px;
+  padding: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+  box-shadow: 5px 5px 15px 5px #000000;
+  box-sizing: border-box;
+  background-size: cover;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+ }
+
+ .outer-box{
+  border: 1px solid #000000;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  height: auto;
+ }
+ .left-box{
+  background-color: rgb(246, 250, 203);
+  height: 505px;
+  padding: 10px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+ }
+ .left-box h1{
+  width: 300px;
+  padding: 5px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 25px;
+  margin-bottom: 15px;
+ }
+.Aboutus{
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  padding: 15px;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+ .left-box button{
+  margin-top: 0px;
+  margin-left: 120px;
+  margin-right: 15px;
+  padding: 10px 20px;
+  background-color: rgb(252, 252, 250);
+  border: 2px solid #1d1b15;
+  cursor: pointer;
+  background-color: rgb(240, 239, 229);
+ }
+ .right-box img{
+  height: 520px;
+  width: 350px;
+  padding: 0px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+ .divider{
+  border-left: 1px solid #000000;
+ }
+ .why{
+  text-align: center;
+  padding: 40px 10px;
+  font-family: "Vast Shadow", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15pt;
+ }
+ .feature{
+  display: inline;
+  justify-content: center;
+  gap: 20px;
+  padding: 5px;
+  margin-top: 20px;
+  border: dashed;
+  border-radius: 20px;
+  border-color: rgb(233, 61, 133);
+  width: 200px;
+ }
+ .products{
+  padding: 50px;
+  text-align: left;
+  font-family: "Electrolize", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18pt;
+ }
+
+ .product-list-top{
+  display: inline-flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 5px;
+ }
+ .product{
+  border: 1px solid #000000;
+  background-color: rgb(243, 219, 224);
+  padding: 10px;
+  width: 200px;
+  font-size: 10pt;
+ }
+ #lavender{
+  width: 200px;
+  height: 200px;
+ }
+ #pistachio{
+  width: 200px;
+  height: 200px;
+ }
+ #saltedcaramel{
+  width: 200px;
+  height: 200px;
+ }
+ #lemon{
+  width: 200px;
+  height: 200px;
+ }
+ .product-list-bottom{
+  display: inline-flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+ }
+ #coffee{
+  width: 200px;
+  height: 200px;
+ }
+ #blueberrycheesecake{
+  width: 200px;
+  height: 200px;
+ }
+ #smores{
+  width: 200px;
+  height: 200px;
+ }
+ #redvelvet{
+  width: 200px;
+  height: 200px;
+ }
+ .sets{
+  padding: 50px;
+  text-align: left;
+  font-family: "Electrolize", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18pt;
+ }
+.set-list{
+  display: inline-flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 5px; 
+}
+.items{
+  border: 1px solid #000000;
+  background-color: rgb(219, 229, 243);
+  padding: 10px;
+  width: 300px;
+  font-size: 10pt;
+}
+#littlejoys{
+  width: 300px;
+  height: 300px; 
+}
+#sweetdozen{
+  width: 300px;
+  height: 300px;
+}
+#twentyfourjewels{
+  width: 300px;
+  height: 300px;
+}
+.footer-info{
+  padding: 50px;
+  text-align: left;
+  font-family: "Electrolize", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18pt;
+  border: outset;
+  background-color: rgb(234, 243, 174);
+  border-radius: 50px;
+} 
+.video{
+  margin-top: 50px;
+  text-align: center;
+}
+
+
+

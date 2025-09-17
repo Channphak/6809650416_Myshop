@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Vast+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Special+Elite&family=Vast+Shadow&display=swap');
+
+
+
+body{
+  background-image: url("resources/CREAM\ BACKGROUND.jpg");
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0px;
+ }
+.poster{
+  background-image: url("resources/WHITE\ BACKGROUND.jpg");
+  height: 2500px;
+  width: 1500px;
+  padding: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+  box-shadow: 5px 5px 15px 5px #000000;
+  box-sizing: border-box;
+  background-size: cover;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+ }
+  nav{
+  padding: auto;
+  background-color: rgb(220, 48, 48);
+  display: flex;
+  justify-content: space-evenly;
+  align-items:center;
+ }
+ .logo a{
+font-weight: bold;
+font-size: 20px;
+color: #f5e78d;
+text-decoration: none;
+align-items: center;
+font-style: italic;
+font-size: 30px;
+ }
+ .option{
+  display: flex;
+  list-style: none;
+ }
+ .option li{
+  margin: 5px;
+  background-color: rgb(243, 229, 140);
+  border-radius: 7px;
+  padding: 8px;
+ }
+ .option li a{
+  color: black;
+  text-decoration: none;
+ }

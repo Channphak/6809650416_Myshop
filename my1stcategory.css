@@ -254,7 +254,7 @@ font-size: 30px;
   border: 1px solid #ddd;
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  background-color: #fbd944;
+  background-color: #f45353;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -270,9 +270,13 @@ font-size: 30px;
 .items h3{
   margin-top: 10px;
   margin-bottom: 5px;
-  color: #333;  
+  color: antiquewhite;
 }
 .items p{
   margin: 5px 0;
-  color: #4c4a4a;  
+  color: cornsilk;  
+}
+.items button{
+  background-color: #fbd944;
+  color: #000000;
 }

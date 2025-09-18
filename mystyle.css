@@ -34,13 +34,13 @@ body{
   align-items:center;
  }
  .logo a{
-font-weight: bold;
-font-size: 20px;
-color: #f5e78d;
-text-decoration: none;
-align-items: center;
-font-style: italic;
-font-size: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f5e78d;
+  text-decoration: none;
+  align-items: center;
+  font-style: italic;
+  font-size: 30px;
  }
  .option{
   display: flex;

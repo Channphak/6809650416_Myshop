@@ -15,7 +15,7 @@ body{
  }
 .poster{
   background-image: url("resources/WHITE\ BACKGROUND.jpg");
-  height: 3300px;
+  height: 2000px;
   width: 1500px;
   padding: 20px;
   -webkit-box-shadow: 5px 5px 15px 5px #000000; 
@@ -83,6 +83,7 @@ body{
   height: 250px;
   object-fit: cover;
   border-radius: 12px;
+  aspect-ratio: 1/1;
 }
 .intro-order {
   flex: 1;

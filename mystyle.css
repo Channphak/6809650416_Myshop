@@ -254,14 +254,13 @@ body{
   font-size: 25pt;
   margin-bottom: -50px;
 }
-#findoutmore{
-  margin-right: 200px;
-  margin-top: 30px;
-  text-align: right;
+.info1{
+  margin-top: 50px;
+  
 }
 .refer {
   margin-left: 400px;
-  margin-top: -380px;
+  margin-top: -360px;
 }
 .refer a{
   color: antiquewhite;

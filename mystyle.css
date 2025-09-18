@@ -265,6 +265,9 @@ font-size: 30px;
   text-align: center;
   border-radius: 8px;
 }
+.video video{
+  border-radius: 10px;
+}
 .footer-info{
   padding: 10px;
   text-align: left;
@@ -275,7 +278,7 @@ font-size: 30px;
   border: outset;
   background-color: rgb(240, 28, 28);
   border-radius: 50px;
-  color: aliceblue;
+  color: antiquewhite;
   display: grid;
 } 
 .footer-info h2{
@@ -290,13 +293,19 @@ font-size: 30px;
   margin-top: 30px;
   text-align: right;
 }
-.refer{
+.refer {
   margin-left: 400px;
   margin-top: -380px;
 }
-.refer1{
+.refer a{
+  color: antiquewhite;
+}
+.refer1 {
   margin-left: 680px;
   margin-top: -420px;
+}
+.refer1 a{
+  color: antiquewhite;
 }
 
 
